@@ -176,7 +176,7 @@ reward:
 # Easily browse and edit blog source code online.
 post_edit:
   enable: false
-  # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
+  # url: https://wuyihan886.github.io/hanhandaily.github.io/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
   url:
 
@@ -494,7 +494,7 @@ giscus:
   repo:
   repo_id:
   category_id:
-  theme:
+  theme:涵涵日报
     light: light
     dark: dark
   option:
